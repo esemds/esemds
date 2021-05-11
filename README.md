@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> in rel with zshell
+## All about me, but me.
+
+currently having burger and cheese with jiz.  😎
+```
+was born a noob,
+will die a noob.
+```
+
