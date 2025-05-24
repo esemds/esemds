@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## All about me, but me.
-
-currently having burger and cheese with jiz.  😎
+## O_o
 ```
 was born a noob,
-will die a noob.
+will die a !noob.
 ```
 
